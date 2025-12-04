@@ -74,4 +74,4 @@ Como este é um monorrepo de estudos, cada pasta pode ser um projeto isolado. Ge
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/SEU-USUARIO/estudos-react.git](https://github.com/SEU-USUARIO/estudos-react.git)
+git clone https://github.com/panabue/REACT.git
