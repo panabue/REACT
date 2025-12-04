@@ -75,3 +75,16 @@ Como este é um monorrepo de estudos, cada pasta pode ser um projeto isolado. Ge
 1. Clone o repositório:
 ```bash
 git clone https://github.com/panabue/REACT.git
+````
+2. Entre na pasta do projeto desejado:
+```bash
+cd estudos-react/nome-da-pasta
+````
+3. Instale as dependências:
+```bash
+npm install
+````
+4. Rode o projeto:
+```bash
+npm run dev
+````
