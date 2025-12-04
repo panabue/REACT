@@ -6,6 +6,8 @@
 
 Bem-vindo ao meu repositório de estudos! Aqui estou documentando minha jornada de aprendizado em **React**, desde os conceitos fundamentais até tópicos avançados. O objetivo deste repositório é servir como um guia de consulta futura e portfólio dos exercícios práticos.
 
+Aqui esta o link para o repositório do curso que esta me auxiliando nesse processo de aprendizado: https://github.com/academind/react-complete-guide-course-resources
+
 ## 🎯 Objetivos
 
 - Dominar os conceitos fundamentais (JSX, Props, State).
